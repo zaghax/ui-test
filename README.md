@@ -3,7 +3,7 @@ Zemoga Front End Development - Candidate Test v2.1
 
 ### Overview
 
-This project was developed /inside react-ui-test.
+This project was developed inside /react-ui-test.\
 To run this project please follow the steps below
 ## Step 1
 

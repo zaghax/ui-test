@@ -1,13 +1,13 @@
 # Zemoga UI Testing Project
 
-This is a demo challenge site for Zomoga. 
+This is a demo challenge site for Zomoga.\
 For a quick preview please visit: https://friendly-duckanoo-d39f28.netlify.app/
 
 This site was builded using React and Typescript, you can install and run this site following the steps below:
 
 ## Step 1
 
-Make sure you have installed Node Js in your local machine.
+Make sure you have installed Node Js in your local machine.\
 Install all the node packages of this project using NPM and running the following command in your terminal console:
 ### `npm install`
 
@@ -27,29 +27,29 @@ You will also see any lint errors in the console.
 
 ### Styled components
 
-Used to add all the css styles on this page 
+Used to add all the css styles on this page. \
 For more info please refer to https://styled-components.com/docs
 
-### ### React moment
+### React moment
 
-Used to manage dates of this project 
+Used to manage dates of this project. \
 For more info please refer to https://www.npmjs.com/package/react-moment 
 
 ### Slick carousel
 
-Used to add an slider to handle the cards in mobile view
+Used to add an slider to handle the cards in mobile view.\
 For more info please refer to https://react-slick.neostack.com/
 
 ## For cleaning code this project use the following linters
 
 ### Eslint
 
-Used to keep clean the javascrip and typescrip code
+Used to keep clean the javascrip and typescrip code.\
 For more info please refer to https://eslint.org/docs/latest/user-guide/configuring/
 
 ### Prettier
 
-Used as a code formatter
+Used as a code formatter.\
 For more info please refer to https://prettier.io/docs/en/editors.html
 
 ### Acceptance Criteria
@@ -75,7 +75,7 @@ For more info please refer to https://prettier.io/docs/en/editors.html
 
 This code was developed by:
  
-Giovanni Ortega Arias
-Front-End Developer
-giortega@giorttega.com
-https://www.linkedin.com/in/giovanni-ortega-arias
+Giovanni Ortega Arias\
+Front-End Developer\
+Email: giortega@giorttega.com\
+Linkedin: https://www.linkedin.com/in/giovanni-ortega-arias
